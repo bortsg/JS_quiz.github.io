@@ -1,2 +1,2 @@
-# JS_algorhitms.github.io
+# JS_algorithms.github.io
 first lessons on JS, functions/cycles/arrays
