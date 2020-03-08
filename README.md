@@ -1,2 +1,3 @@
-# JS_algorithms.github.io
-first lessons on JS, functions/cycles/arrays
+# JS_quiz.github.io
+First lessons on JS (kinda codewars tests) - including themes on functions/cycles/arrays
+
